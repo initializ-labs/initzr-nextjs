@@ -1,0 +1,2 @@
+# initzr-nextjs
+NextJS Initializer
